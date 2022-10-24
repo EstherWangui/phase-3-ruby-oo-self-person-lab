@@ -30,7 +30,7 @@ class Person
         self.hygiene > 7
     end 
     def get_paid(amount)
-        self.bank_account += 1200
+        self.bank_account += 100
         "all about the benjamins"
     end
     def take_bath
